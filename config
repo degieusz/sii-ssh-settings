@@ -1,0 +1,14 @@
+Host *
+    User dgudersk
+    ForwardX11 yes
+
+Host wrl139
+    HostName wrling139.emea.nsn-net.net
+Host wrl140
+    HostName wrling140.emea.nsn-net.net
+Host wrl141
+    HostName wrling141.emea.nsn-net.net
+Host wrl142
+    HostName wrling142.emea.nsn-net.net
+Host wrl143
+    HostName wrling143.emea.nsn-net.net
